@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidNotification</string>
+    <string name="show_text">Welcome to Google Cloud Messaging!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">RegID</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register">Register to Gcm!</string>
+    <string name="regId">Registration ID is here!</string>
+    <string name="notification">Notification message is here!</string>
+	
+</resources>
